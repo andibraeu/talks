@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="110px"
+   height="100px"
+   id="svg3043"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="weimarnetz-logo.svg">
+  <metadata
+     id="metadata3061">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3059" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="841"
+     id="namedview3057"
+     showgrid="false"
+     inkscape:zoom="6"
+     inkscape:cx="55"
+     inkscape:cy="43.333333"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3043" />
+  <circle
+     cx="36"
+     cy="54"
+     r="22"
+     fill="none"
+     stroke="#dc0067"
+     stroke-width="1px"
+     id="circle3045" />
+  <circle
+     cx="74"
+     cy="44"
+     r="22"
+     fill="none"
+     stroke="#dc0067"
+     stroke-width="1px"
+     id="circle3047" />
+  <circle
+     cx="74"
+     cy="44"
+     r="29"
+     fill="none"
+     stroke="#dc0067"
+     stroke-width="6px"
+     id="circle3049" />
+  <polygon
+     points="22 48 22 52 30 52 26 56 31 56 37 50 31 44 26 44 30 48"
+     fill="#ffcb05"
+     id="polygon3051" />
+  <polygon
+     points="64 50 73 59 81 59 75 53 88 53 88 47 75 47 81 41 73 41"
+     fill="#ffcb05"
+     id="polygon3053" />
+  <text
+     x="54.833332"
+     y="97.333336"
+     style="font-size:18px;font-weight:bold;text-anchor:middle;font-family:helvetica"
+     id="text3055" />
+</svg>
